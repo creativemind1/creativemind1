@@ -74,18 +74,29 @@ const shoeb = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Metrics
 
+<!-- Row 3: Profile Summary Cards -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=creativemind1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativemind1&layout=compact&theme=radical&hide_border=true&langs_count=8" width="40%" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativemind1&theme=radical)
 
 </div>
 
 <div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=creativemind1&theme=radical" width="24%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=creativemind1&theme=radical" width="24%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=creativemind1&theme=radical" width="24%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=creativemind1&theme=radical&utcOffset=5.5" width="24%" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=creativemind1&theme=radical&hide_border=true)
+</div>
+
+<br/>
+
+<!-- Row 4: Activity Graph -->
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=creativemind1&theme=redical&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -109,6 +120,6 @@ const shoeb = {
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:b44fea,100:e96c4c&height=120&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:b44fea,100:e96c4c&height=120&section=footer)
 
 </div>
